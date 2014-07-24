@@ -1,0 +1,7 @@
+118514768{ name: 'Bertolt Brecht', count: 2234 }
+11852884X{ name: 'Umberto Eco', count: 221 }
+118541579{ name: 'Günter Grass', count: 987 }
+118559230{ name: 'Franz Kafka', count: 2046 }
+11860564X{ name: 'Jean-Paul Sartre' }
+11862444X{ name: 'Kurt Tucholsky', count: 690 }
+118628852{ name: 'Martin Walser' }

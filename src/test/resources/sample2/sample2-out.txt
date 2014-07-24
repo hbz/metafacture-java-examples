@@ -1,0 +1,4 @@
+1, Kafka, Franz, 03. July 1883, Prague
+2, Havel, Václav, 05. October 1939, Prague
+3, Janáček, Leoš, 03. July 1854, Hukvaldy
+5, Brod, Max, 27. May 1884, Prague

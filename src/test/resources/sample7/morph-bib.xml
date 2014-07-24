@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exercise 7a Utility script for creating a summary version of the authority 
+	data records -->
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1"
+	entityMarker=".">
+
+	<rules>
+		<combine name="{to:${author-id}}authorOf" value="${book-id}">
+			<data source="_id" name="book-id" />
+			<data source="028A.9" name="author-id" />
+		</combine>
+	</rules>
+
+</metamorph>

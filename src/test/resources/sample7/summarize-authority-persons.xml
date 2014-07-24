@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Exercise 7a
+	
+	Utility script for creating a summary version
+	of the authority data records
+ -->
+ 
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1"
+	entityMarker=".">
+	
+	<rules>
+		<choose name="name">
+			<data source="028A.p" />
+			<combine name="" value="${FIRSTNAME} ${LASTNAME}">
+				<data source="028A.d" name="FIRSTNAME" />
+				<data source="028A.a" name="LASTNAME" />
+			</combine>
+		</choose>
+	</rules>
+	
+</metamorph>

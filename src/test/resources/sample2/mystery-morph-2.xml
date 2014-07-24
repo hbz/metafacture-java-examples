@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Exercise 2a 
+ -->
+ 
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		version="1" entityMarker=".">
+	
+	<rules>
+		<combine name="" value="${ID}, ${Lastname}, ${Firstname}, ${Birthdate}, ${Birthplace}" flushWith="record">
+			<data source="_id" name="ID" />
+			<data source="Firstname" />
+			<data source="Lastname" />
+			<data source="Birthdate" />
+			<data source="Birthplace" />
+		</combine>
+	</rules>
+	
+</metamorph>

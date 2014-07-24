@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exercise 3a -->
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1"
+	entityMarker=".">
+
+	<rules>
+		<choose>
+			<data source="060R.a" name="birth (full)">
+				<regexp match="^\d{2}\.\d{2}.\d{4}" />
+			</data>
+			<data source="060R.a" name="birth (year)">
+				<regexp match="^\d{2,4}" />
+			</data>
+			<data source="060R.a" name="invalid birth">
+				<constant value="other" />
+			</data>
+		</choose>
+		<choose>
+			<data source="060R.b" name="death (full)">
+				<regexp match="^\d{2}\.\d{2}.\d{4}" />
+			</data>
+			<data source="060R.b" name="death (year)">
+				<regexp match="^\d{2,4}" />
+			</data>
+			<data source="060R.b" name="invalid death">
+				<constant value="other" />
+			</data>
+		</choose>
+	</rules>
+
+</metamorph>

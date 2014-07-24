@@ -1,0 +1,7 @@
+h1. Metafacture Java Examples
+
+This is a minimal Java 8 Maven project with solutions to the exercises from the workshop "Analysis of library metadata with Metafacture":http://swib.org/swib13/slides/boehme_swib13_131.pdf conducted by Christoph Böhme at SWIB13. It can be used as a template for Java projects using Metafacture.
+
+The processing pipelines or workflows are built using the typesafe Metafacture Java API directly, not the Flux DSL.
+
+Prerequisites: Java 8, Maven 3

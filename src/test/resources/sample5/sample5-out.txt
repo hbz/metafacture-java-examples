@@ -1,0 +1,6 @@
+birth (full):	 873
+birth (year):	 4874
+death (full):	 460
+death (year):	 1587
+invalid birth:	 9
+invalid death:	 5

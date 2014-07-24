@@ -1,0 +1,2490 @@
+'118514768' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '1140:26-07-13',
+		't': '08:58:08.000'
+	},
+	'001D' {
+		'0': '1220:16-06-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '118514768'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/118514768',
+		'z': 'http://d-nb.info/gnd/1022091077'
+	},
+	'004B' {
+		'a': 'pip'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '118514768'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '1022091077'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '118514768',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '141399074'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '139089691'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '141300248'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '136949541'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '134336232'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '12794544X'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '12736630X'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '12722811X'
+	},
+	'008A' {
+		'a': 'f',
+		'a': 's',
+		'a': 'z',
+		'a': 'm',
+		'a': 'h'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'm',
+		'a': 'e',
+		'a': 'z',
+		'a': 'h'
+	},
+	'028@' {
+		'd': 'Becton',
+		'a': 'Brêcht'
+	},
+	'028@' {
+		'd': 'Bert',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'Bertolʹ',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'Berthold',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'Bertholt',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'Bertold',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'B.',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': 'Eugen Berthold Friedrich',
+		'a': 'Brecht',
+		'v': 'Geburtsname'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Brecht'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Brecht-Eisler',
+		'v': 'Scheinbarer Doppelname'
+	},
+	'028@' {
+		'd': 'Bertolt',
+		'a': 'Becht'
+	},
+	'028@' {
+		'P': 'Beituo\'erte-Bulaixite'
+	},
+	'028@' {
+		'd': 'B.',
+		'a': 'Berchito'
+	},
+	'028@' {
+		'd': 'B.',
+		'a': 'Brechtas'
+	},
+	'028@' {
+		'd': 'Bertolts',
+		'a': 'Brechts'
+	},
+	'028@' {
+		'd': 'Berd',
+		'a': 'Brehd'
+	},
+	'028@' {
+		'd': 'Bertolt',
+		'a': 'Breht'
+	},
+	'028@' {
+		'd': 'Bertolts',
+		'a': 'Brehts'
+	},
+	'028@' {
+		'd': 'Bārṭolṭ',
+		'a': 'Breḳhṭ'
+	},
+	'028@' {
+		'd': 'Berṭolṭ',
+		'a': 'Brekt'
+	},
+	'028@' {
+		'd': 'Berṭōlṭ',
+		'a': 'Brekṭ'
+	},
+	'028@' {
+		'd': 'Berṭôlṭ',
+		'a': 'Breḳṭ'
+	},
+	'028@' {
+		'd': 'Berṭalṭa',
+		'a': 'Breśṭ'
+	},
+	'028@' {
+		'd': 'Barṭolṭa',
+		'a': 'Breṣṭa'
+	},
+	'028@' {
+		'd': 'Bartūlt',
+		'a': 'Brišt'
+	},
+	'028@' {
+		'd': 'Birtūld',
+		'a': 'Brišt'
+	},
+	'028@' {
+		'd': 'Birtult',
+		'a': 'Brišt'
+	},
+	'028@' {
+		'd': 'Berutorutu',
+		'a': 'Buchito'
+	},
+	'028@' {
+		'd': 'Beituo\'erte',
+		'a': 'Bulaixite'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Bulaixite'
+	},
+	'028@' {
+		'd': 'Berutoruto',
+		'a': 'Burehito'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Burehito'
+	},
+	'028@' {
+		'P': 'B. B.'
+	},
+	'028@' {
+		'd': 'Berthold',
+		'a': 'Larsen',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Mpertolt',
+		'a': 'Mprecht'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Mprecht'
+	},
+	'028@' {
+		'd': 'Peit\'oĉrht\'ê',
+		'a': 'Pulaihsit\'ê'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Pulaihsit\'ê'
+	},
+	'028@' {
+		'd': 'Peŏt\'olt\'ŭ',
+		'a': 'Pŭrehit\'ŭ'
+	},
+	'028@' {
+		'd': 'Beŏt\'olt\'ŭ',
+		'a': 'Bŭrehit\'ŭ'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Arab',
+		'P': 'برشت، برتولد',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Kore',
+		'd': '베르톨트',
+		'a': '브레히트',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hebr',
+		'd': 'ברטולט',
+		'a': 'ברכט',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'P': '贝·布莱希特',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'd': '贝',
+		'a': '布莱希特',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'd': 'ベルトルト',
+		'a': 'ブレヒト',
+		'5': 'DE-576'
+	},
+	'028A' {
+		'd': 'Bertolt',
+		'a': 'Brecht'
+	},
+	'028P' {
+		'd': 'Bertolt',
+		'a': 'Brecht',
+		'v': '1898-1956'
+	},
+	'028P' {
+		'T': '01',
+		'U': 'Hant',
+		'P': '布萊希特',
+		'5': 'DE-603'
+	},
+	'028R' {
+		'9': '121608557',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '121608557',
+		'E': '1869',
+		'B': '1939',
+		'a': 'Brecht',
+		'd': 'Berthold Friedrich',
+		'4': 'bezf',
+		'v': 'Vater'
+	},
+	'028R' {
+		'9': '119056011',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '119056011',
+		'E': '1901',
+		'a': 'Banholzer',
+		'd': 'Paula',
+		'4': 'bezf',
+		'v': 'Frühe Geliebte'
+	},
+	'028R' {
+		'9': '118738348',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118738348',
+		'E': '1900',
+		'B': '1942',
+		'a': 'Neher',
+		'd': 'Carola',
+		'4': 'bezf',
+		'v': 'Frühe Geliebte'
+	},
+	'028R' {
+		'9': '137070411',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '137070411',
+		'E': '1919',
+		'B': '1943',
+		'a': 'Banholzer',
+		'd': 'Frank',
+		'4': 'bezf',
+		'v': 'Unehelicher Sohn'
+	},
+	'028R' {
+		'9': '118809849',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118809849',
+		'E': '1906',
+		'B': '1974',
+		'a': 'Berlau',
+		'd': 'Ruth',
+		'4': 'bezf',
+		'v': 'Langjährige Geliebte'
+	},
+	'028R' {
+		'9': '119027615',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '119027615',
+		'E': '1908',
+		'B': '1941',
+		'a': 'Steffin',
+		'd': 'Margarete',
+		'4': 'bezf',
+		'v': 'Geliebte'
+	},
+	'028R' {
+		'9': '118940163',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118940163',
+		'E': '1893',
+		'B': '1984',
+		'a': 'Zoff',
+		'd': 'Marianne',
+		'4': 'bezf',
+		'v': '1. Ehefrau'
+	},
+	'028R' {
+		'9': '118630091',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118630091',
+		'E': '1900',
+		'B': '1971',
+		'a': 'Weigel',
+		'd': 'Helene',
+		'4': 'bezf',
+		'v': '2. Ehefrau'
+	},
+	'028R' {
+		'9': '123783283',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '123783283',
+		'E': '1926',
+		'B': '2012',
+		'a': 'Reichel',
+		'd': 'Käthe',
+		'4': 'bezf',
+		'v': 'Späte Geliebte'
+	},
+	'028R' {
+		'9': '118940155',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118940155',
+		'E': '1923',
+		'B': '2009',
+		'a': 'Hiob',
+		'd': 'Hanne',
+		'4': 'bezf',
+		'v': 'Tochter'
+	},
+	'028R' {
+		'9': '110005449',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '110005449',
+		'E': '1924',
+		'B': '2009',
+		'a': 'Brecht',
+		'd': 'Stefan',
+		'4': 'bezf',
+		'v': 'Sohn'
+	},
+	'028R' {
+		'9': '13612495X',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '13612495X',
+		'E': '1930',
+		'a': 'Brecht-Schall',
+		'd': 'Barbara',
+		'4': 'bezf',
+		'v': 'Tochter'
+	},
+	'028R' {
+		'9': '123757398',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '123757398',
+		'E': '1930',
+		'B': '2005',
+		'a': 'Schall',
+		'd': 'Ekkehard',
+		'4': 'bezf',
+		'v': 'Schwiegersohn'
+	},
+	'028R' {
+		'9': '1030496250',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '1030496250',
+		'E': '1842',
+		'B': '1922',
+		'a': 'Brezing',
+		'd': 'Joseph Friedrich',
+		'4': 'bezf',
+		'v': 'Großvater'
+	},
+	'028R' {
+		'9': '1030496366',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '1030496366',
+		'E': '1838',
+		'B': '1916',
+		'a': 'Brezing',
+		'd': 'Friederike',
+		'4': 'bezf',
+		'v': 'Großmutter'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '04185053X',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4185053-1',
+		'a': 'Theaterregisseur',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '041402413',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4140241-8',
+		'a': 'Dramatiker',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '040521540',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4052154-0',
+		'a': 'Schauspieler',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '041683919',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4168391-2',
+		'a': 'Lyriker',
+		'4': 'beru'
+	},
+	'041R' {
+		'a': 's',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'i',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Sprechst.',
+		'4': 'istr'
+	},
+	'041R' {
+		'a': 'Gsg.',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Text',
+		'4': 'funk'
+	},
+	'042A' {
+		'a': '12.2p',
+		'a': '15.1p'
+	},
+	'042B' {
+		'a': 'XA-DE'
+	},
+	'042C' {
+		'a': 'ger'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Brecht, Bertolt',
+		'0': '118514768'
+	},
+	'050C' {
+		'a': '7'
+	},
+	'050C' {
+		'a': '12'
+	},
+	'050C' {
+		'a': 'LABI-BW-WLB'
+	},
+	'050E' {
+		'a': 'LCAuth'
+	},
+	'050E' {
+		'a': 'B 1986'
+	},
+	'050E' {
+		'a': 'Biogr. H Emigr.'
+	},
+	'050E' {
+		'a': 'Landesbibliographie'
+	},
+	'050E' {
+		'a': 'Archiv der American Guild for German Cultural Freedom, New York im Deutschen Exilarchiv 1933 – 1945'
+	},
+	'060R' {
+		'a': '1898',
+		'b': '1956',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '10.02.1898',
+		'b': '14.08.1956',
+		'4': 'datx'
+	},
+	'065R' {
+		'9': '040036146',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4003614-5',
+		'a': 'Augsburg',
+		'4': 'ortg'
+	},
+	'065R' {
+		'9': '040057283',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4005728-8',
+		'a': 'Berlin',
+		'4': 'orts'
+	},
+	'065R' {
+		'9': '040108775',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4010877-6',
+		'a': 'Dänemark',
+		'4': 'ortx',
+		'Z': '1938'
+	},
+	'065R' {
+		'9': '040772586',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4077258-5',
+		'a': 'Schweden',
+		'4': 'ortx',
+		'Z': '1939'
+	},
+	'lccn': 'n/79/18801',
+	'ndl': '00434255',
+	'viaf': '2467372',
+	'imdb': '0106517',
+	'category': 'Bertolt Brecht',
+	'category': 'Autor',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (Deutsch)',
+	'category': 'Literatur (Berlin)',
+	'category': 'Lyrik',
+	'category': 'Drama',
+	'category': 'Novelle',
+	'category': 'Essay',
+	'category': 'Politische Literatur',
+	'category': 'Theaterregisseur',
+	'category': 'Liedtexter',
+	'category': 'Drehbuchautor',
+	'category': 'Filmregisseur',
+	'category': 'Hanns Eisler',
+	'category': 'Helene Weigel',
+	'category': 'NS-Opfer',
+	'category': 'Emigrant aus dem Deutschen Reich zur Zeit des Nationalsozialismus',
+	'category': 'Träger des Nationalpreises der DDR I. Klasse für Kunst und Literatur',
+	'category': 'Mitglied der Akademie der Künste (DDR)',
+	'category': 'Deutscher',
+	'category': 'Österreicher',
+	'category': 'DDR-Bürger',
+	'category': 'Künstler (DDR)',
+	'category': 'Künstler (Augsburg)',
+	'category': 'Schriftsteller (Berlin)',
+	'category': 'Geboren 1898',
+	'category': 'Gestorben 1956',
+	'category': 'Mann',
+	'category': 'Deutscher Widerstand gegen den Nationalsozialismus in den USA'
+}
+'11852884X' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '1510:27-05-08',
+		't': '09:39:52.000'
+	},
+	'001D' {
+		'0': '9999:06-04-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '11852884X'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/11852884X'
+	},
+	'004B' {
+		'a': 'piz'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '11852884X'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '11852884X',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4013511-1',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 's',
+		'a': 'f'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k'
+	},
+	'028@' {
+		'P': 'Dedalus',
+		'l': 'Schriftsteller'
+	},
+	'028@' {
+		'd': 'Umberto',
+		'a': 'Ėko'
+	},
+	'028A' {
+		'd': 'Umberto',
+		'a': 'Eco'
+	},
+	'028P' {
+		'S': 'DLC',
+		'0': 'n 79021285',
+		'2': 'naf'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040457907',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4045790-4',
+		'a': 'Philosoph',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'beru'
+	},
+	'041R' {
+		'a': 'Semiotiker',
+		'4': 'beru'
+	},
+	'042A' {
+		'a': '12.2p',
+		'a': '11.2p',
+		'a': '4.7p'
+	},
+	'042B' {
+		'a': 'XA-IT'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Eco, Umberto',
+		'0': '11852884X'
+	},
+	'050E' {
+		'a': 'LCAuth, M'
+	},
+	'050G' {
+		'b': 'Ital. Semiotiker, Philosoph und Schriftsteller; Prof. für Ästhetik/Semiotik an versch. ital. Univ.'
+	},
+	'060R' {
+		'a': '1932',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '05.01.1932',
+		'4': 'datx'
+	},
+	'065R' {
+		'a': 'Alessandria, Piemont',
+		'4': 'ortg'
+	},
+	'lccn': 'n/79/21285',
+	'ndl': '00438594',
+	'viaf': '108299403',
+	'imdb': '0248767',
+	'category': 'Umberto Eco',
+	'category': 'Philosoph (20. Jahrhundert)',
+	'category': 'Philosoph (21. Jahrhundert)',
+	'category': 'Autor',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (21. Jahrhundert)',
+	'category': 'Literatur (Italienisch)',
+	'category': 'Semiotiker',
+	'category': 'Roman, Epik',
+	'category': 'Erzählung',
+	'category': 'Essay',
+	'category': 'Medienwissenschaftler',
+	'category': 'Kulturwissenschaftler',
+	'category': 'Herausgeber',
+	'category': 'Hochschullehrer (Bologna)',
+	'category': 'Pataphysik',
+	'category': 'Träger des Großen Bundesverdienstkreuzes mit Stern',
+	'category': 'Träger des Verdienstordens der Italienischen Republik (Großkreuz)',
+	'category': 'Träger des Ordre des Arts et des Lettres (Komtur)',
+	'category': 'Träger des Pour le Mérite (Friedensklasse)',
+	'category': 'Träger des Österreichischen Staatspreises für Europäische Literatur',
+	'category': 'Mitglied der Ehrenlegion (Offizier)',
+	'category': 'Ehrendoktor einer Universität',
+	'category': 'Ehrendoktor der Freien Universität Berlin',
+	'category': 'Ehrendoktor der Hebräischen Universität Jerusalem',
+	'category': 'Ehrendoktor der Universität Tartu',
+	'category': 'Ehrendoktor der Universität Tel Aviv',
+	'category': 'Italiener',
+	'category': 'Geboren 1932',
+	'category': 'Mann'
+}
+'118541579' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '9999:26-02-13',
+		't': '15:59:59.000'
+	},
+	'001D' {
+		'0': '1220:16-06-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '118541579'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/118541579',
+		'z': 'http://d-nb.info/gnd/1020430370'
+	},
+	'004B' {
+		'a': 'piz'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '118541579'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '1020430370'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '1020430370',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '118541579',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '135186056'
+	},
+	'007N' {
+		'a': 'dma',
+		'0': '310876052'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4021866-1',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 's',
+		'a': 'f',
+		'a': 'z',
+		'a': 't',
+		'a': 'h'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'm',
+		'a': 'h',
+		'a': 'z'
+	},
+	'028@' {
+		'd': 'Günther',
+		'a': 'Grass'
+	},
+	'028@' {
+		'd': 'Ginters',
+		'a': 'Grass'
+	},
+	'028@' {
+		'd': 'Gjunter',
+		'a': 'Grass'
+	},
+	'028@' {
+		'd': 'Gunterus',
+		'a': 'Grass'
+	},
+	'028@' {
+		'd': 'Ginṭer',
+		'a': 'Gras'
+	},
+	'028@' {
+		'd': 'Gjunter',
+		'a': 'Gras'
+	},
+	'028@' {
+		'd': 'Gînter',
+		'a': 'Grâs'
+	},
+	'028@' {
+		'd': 'Gūntir',
+		'a': 'Grās'
+	},
+	'028@' {
+		'd': 'Ğūntar',
+		'a': 'Ğrās'
+	},
+	'028@' {
+		'd': 'Gynter',
+		'a': 'Gras'
+	},
+	'028@' {
+		'd': 'G.',
+		'a': 'Grasas'
+	},
+	'028@' {
+		'd': 'Gkynter',
+		'a': 'Gkras'
+	},
+	'028@' {
+		'd': 'Gkynter',
+		'a': 'Gkrass'
+	},
+	'028@' {
+		'd': 'Gyuntā',
+		'a': 'Gurasu'
+	},
+	'028@' {
+		'd': 'Junte',
+		'a': 'Gelasi'
+	},
+	'028@' {
+		'P': 'Junte-Gelasi'
+	},
+	'028@' {
+		'd': 'Kwint\'ô',
+		'a': 'Kŭrasŭ'
+	},
+	'028@' {
+		'd': 'Giunter',
+		'a': 'Grasi'
+	},
+	'028@' {
+		'd': 'Artur',
+		'a': 'Knoff',
+		'4': 'pseu'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Arab',
+		'P': 'جراس، جونتر',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Kore',
+		'd': '귄터',
+		'a': '그라스',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hebr',
+		'd': 'גינטר',
+		'a': 'גראס',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'P': '君特・格拉斯',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'P': 'ギュンター・グラス',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'd': '君特',
+		'a': '格拉斯',
+		'5': 'DE-576'
+	},
+	'028A' {
+		'd': 'Günter',
+		'a': 'Grass'
+	},
+	'028P' {
+		'd': 'Günter',
+		'a': 'Grass',
+		'S': 'DLC',
+		'0': 'n 80085270',
+		'2': 'naf',
+		'v': '1927-'
+	},
+	'028R' {
+		'9': '133726711',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '133726711',
+		'E': '1932',
+		'a': 'Grass',
+		'd': 'Anna',
+		'4': 'bezf',
+		'v': '1. Ehefrau'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '041402413',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4140241-8',
+		'a': 'Dramatiker',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '040334236',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4033423-5',
+		'a': 'Künstler',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '041251733',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4125173-8',
+		'a': 'Graphiker',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '041395506',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4139550-5',
+		'a': 'Bildhauer',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '040372154',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4037215-7',
+		'a': 'Maler',
+		'4': 'beru'
+	},
+	'041R' {
+		'a': 's',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Text',
+		'4': 'funk'
+	},
+	'042A' {
+		'a': '12.2p',
+		'a': '13.4p'
+	},
+	'042B' {
+		'a': 'XA-DE',
+		'a': 'XA-PL'
+	},
+	'042C' {
+		'a': 'ger'
+	},
+	'046G' {
+		'a': 'Grass, Günter: To tenekedenio tampurlo. - 1985'
+	},
+	'046G' {
+		'a': 'Grass, Günter: Raport z pracowni. - 1993'
+	},
+	'046G' {
+		'a': 'Perera, Ronald: Three poems of Günter Grass. - 1977'
+	},
+	'046G' {
+		'a': 'Oskar, Tulla, Mahlke .... - 1993'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Grass, Günter',
+		'0': '118541579'
+	},
+	'050C' {
+		'a': '12'
+	},
+	'050C' {
+		'a': 'OENAK'
+	},
+	'050C' {
+		'a': '18.14.00',
+		'5': 'BDSL'
+	},
+	'050E' {
+		'a': 'M; LCAuth; DMA: LoC-NA; DB'
+	},
+	'050G' {
+		'b': 'Nobelpreis für Literatur 1999, Georg-Büchner-Preisträger 1965'
+	},
+	'060R' {
+		'a': '1927',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '16.10.1927',
+		'4': 'datx'
+	},
+	'065R' {
+		'9': '040110397',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4011039-4',
+		'a': 'Danzig',
+		'4': 'ortg'
+	},
+	'lccn': 'n/80/85270',
+	'ndl': '00441527',
+	'viaf': '102319859',
+	'imdb': '0335848',
+	'category': 'Günter Grass',
+	'category': 'Autor',
+	'category': 'Deutscher Grafiker',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (21. Jahrhundert)',
+	'category': 'Literatur (Deutsch)',
+	'category': 'Drama',
+	'category': 'Lyrik',
+	'category': 'Roman, Epik',
+	'category': 'Erzählung',
+	'category': 'Essay',
+	'category': 'Novelle',
+	'category': 'Autobiografie',
+	'category': 'Drehbuchautor',
+	'category': 'SPD-Mitglied',
+	'category': 'Verband-deutscher-Schriftsteller-Funktionär',
+	'category': 'Angehöriger der Waffen-SS',
+	'category': 'Ehrenbürger von Danzig',
+	'category': 'Mitglied der Akademie der Künste (Berlin)',
+	'category': 'Ehrendoktor der Freien Universität Berlin',
+	'category': 'Träger des Georg-Büchner-Preises',
+	'category': 'Träger der Carl-von-Ossietzky-Medaille',
+	'category': 'Nobelpreisträger für Literatur',
+	'category': 'Danziger',
+	'category': 'Literatur (Lübeck)',
+	'category': 'Geboren 1927',
+	'category': 'Mann',
+	'category': 'Mitglied im PEN-Zentrum Deutschland',
+	'category': 'Schriftsteller (Lübeck)'
+}
+'118559230' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '7777:29-07-13',
+		't': '13:02:38.000'
+	},
+	'001D' {
+		'0': '1220:16-06-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '118559230'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/118559230',
+		'z': 'http://d-nb.info/gnd/1022122517'
+	},
+	'004B' {
+		'a': 'piz'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '118559230'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '1022122517'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '118559230',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '160009154'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '127266623'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '134676912'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '127133593'
+	},
+	'007N' {
+		'a': 'dma',
+		'0': '310366917'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4029205-8',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 's',
+		'a': 'f',
+		'a': 'z'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'm',
+		'a': 'e',
+		'a': 'z'
+	},
+	'028@' {
+		'd': 'Franc',
+		'a': 'Kafka'
+	},
+	'028@' {
+		'd': 'Francas',
+		'a': 'Kafka'
+	},
+	'028@' {
+		'd': 'Francs',
+		'a': 'Kafka'
+	},
+	'028@' {
+		'd': 'Frank',
+		'a': 'Kafka'
+	},
+	'028@' {
+		'd': 'F.',
+		'a': 'Kafka'
+	},
+	'028@' {
+		'P': 'Kafka'
+	},
+	'028@' {
+		'd': 'Frānts',
+		'a': 'Kāfkā'
+	},
+	'028@' {
+		'd': 'Frānts',
+		'a': 'Kāfka'
+	},
+	'028@' {
+		'd': 'Frants',
+		'a': 'Ḳafḳa'
+	},
+	'028@' {
+		'd': 'Frānz',
+		'a': 'Kāfkā'
+	},
+	'028@' {
+		'd': 'Furantsu',
+		'a': 'Kafuka'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Kafuka'
+	},
+	'028@' {
+		'd': 'Phrants',
+		'a': 'Kaphka'
+	},
+	'028@' {
+		'd': 'Phrāntsa',
+		'a': 'Kāp̱hkā'
+	},
+	'028@' {
+		'd': 'Franṣ',
+		'a': 'Qafqâ'
+	},
+	'028@' {
+		'd': 'Franzo',
+		'a': 'Kafkos'
+	},
+	'028@' {
+		'd': 'Fr.',
+		'a': 'Kavka'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Arab',
+		'P': 'كافكا، فرانتس',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hebr',
+		'd': 'פרנץ',
+		'a': 'קאפקא',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'P': '弗兰茨·卡夫卡',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'P': 'フランツ・カフカ',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'd': 'フランツ',
+		'a': 'カフカ',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'd': '弗兰茨',
+		'a': '卡夫卡',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Grek',
+		'd': 'Φραντς',
+		'a': 'Κάφκα',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '02',
+		'U': 'Arab',
+		'P': 'فرانز كافكا',
+		'v': 'Uigur.'
+	},
+	'028A' {
+		'd': 'Franz',
+		'a': 'Kafka'
+	},
+	'028P' {
+		'd': 'Franz',
+		'a': 'Kafka',
+		'S': 'DLC',
+		'0': 'n  81063091',
+		'2': 'naf',
+		'v': '1883-1924'
+	},
+	'028R' {
+		'9': '118515624',
+		'7': 'Tp1',
+		'V': 'pip',
+		'A': 'gnd',
+		'0': '118515624',
+		'E': '1884',
+		'B': '1968',
+		'a': 'Brod',
+		'd': 'Max',
+		'4': 'beza',
+		'v': 'Freund'
+	},
+	'028R' {
+		'9': '1017957134',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '1017957134',
+		'E': '1892',
+		'B': '1944',
+		'a': 'Bloch',
+		'd': 'Grete',
+		'4': 'beza',
+		'v': 'Korrespondentin'
+	},
+	'028R' {
+		'9': '118653695',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '118653695',
+		'E': '1887',
+		'B': '1960',
+		'a': 'Bauer',
+		'd': 'Felice',
+		'4': 'beza',
+		'v': 'Verlobte'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '040290506',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4029050-5',
+		'a': 'Jurist',
+		'4': 'beru'
+	},
+	'041R' {
+		'a': 's',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Text',
+		'4': 'funk'
+	},
+	'042A' {
+		'a': '12.2p'
+	},
+	'042B' {
+		'a': 'XA-CZ',
+		'a': 'XA-AT',
+		'a': 'XA-DE'
+	},
+	'046G' {
+		'a': 'Amerika. - 1927'
+	},
+	'046G' {
+		'a': 'Der Heizer. - 1913'
+	},
+	'046G' {
+		'a': 'Ein Hungerkünstler. - 1924'
+	},
+	'046G' {
+		'a': 'In der Strafkolonie. - 1919'
+	},
+	'046G' {
+		'a': 'Ein Landarzt. - 1919'
+	},
+	'046G' {
+		'a': 'Perigraphē henos agōna. - 1982'
+	},
+	'046G' {
+		'a': 'Der Prozeß. - 1925'
+	},
+	'046G' {
+		'a': 'Das Schloß. - 1926'
+	},
+	'046G' {
+		'a': 'Das Urteil. - 1916'
+	},
+	'046G' {
+		'a': 'Die Verwandlung. - 1917'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Kafka, Franz',
+		'0': '118559230'
+	},
+	'050C' {
+		'a': 'NDSBIO'
+	},
+	'050C' {
+		'a': '7'
+	},
+	'050C' {
+		'a': '12'
+	},
+	'050E' {
+		'a': 'M'
+	},
+	'050E' {
+		'a': 'B 1986'
+	},
+	'050E' {
+		'a': 'DMA'
+	},
+	'050E' {
+		'a': 'LCAuth'
+	},
+	'050E' {
+		'a': 'Wikipedia'
+	},
+	'050G' {
+		'b': 'Dt. Schriftsteller'
+	},
+	'060R' {
+		'a': '1883',
+		'b': '1924',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '03.07.1883',
+		'b': '03.06.1924',
+		'4': 'datx'
+	},
+	'065R' {
+		'9': '040763102',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4076310-9',
+		'a': 'Prag',
+		'4': 'ortg'
+	},
+	'065R' {
+		'9': '954101561',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4508720-9',
+		'a': 'Klosterneuburg-Kierling',
+		'4': 'orts'
+	},
+	'lccn': 'n/81/63091',
+	'ndl': '00445030',
+	'viaf': '56611857',
+	'imdb': '0434525',
+	'category': 'Franz Kafka',
+	'category': 'Autor',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (Österreich)',
+	'category': 'Literatur (Deutsch)',
+	'category': 'Roman, Epik',
+	'category': 'Erzählung',
+	'category': 'Kurzgeschichte',
+	'category': 'Phantastische Literatur',
+	'category': 'Sadomasochistische Literatur',
+	'category': 'Tagebuch',
+	'category': 'Dichterjurist',
+	'category': 'Jurist (Versicherungswirtschaft)',
+	'category': 'Person im Ersten Weltkrieg (Österreich-Ungarn)',
+	'category': 'Person (Klosterneuburg)',
+	'category': 'Person des Judentums (Prag)',
+	'category': 'Österreicher',
+	'category': 'Geboren 1883',
+	'category': 'Gestorben 1924',
+	'category': 'Mann'
+}
+'11860564X' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '9999:14-11-12',
+		't': '02:49:26.000'
+	},
+	'001D' {
+		'0': '9999:06-04-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '11860564X'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/11860564X',
+		'z': 'http://d-nb.info/gnd/187924864',
+		'z': 'http://d-nb.info/gnd/188117342'
+	},
+	'004B' {
+		'a': 'piz'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '11860564X'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '188117342'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '188117342',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '187924864'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '187924864',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '11860564X',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '103535217'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4051719-6',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 'f',
+		'a': 's',
+		'a': 'z'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'z'
+	},
+	'028@' {
+		'd': 'Jean Paul',
+		'a': 'Sartre',
+		'v': 'LoC-NA'
+	},
+	'028@' {
+		'd': 'Jean P.',
+		'a': 'Sartre'
+	},
+	'028@' {
+		'd': 'J.-P.',
+		'a': 'Sartre'
+	},
+	'028@' {
+		'd': 'J. P.',
+		'a': 'Sartre'
+	},
+	'028@' {
+		'd': 'Žān Pul',
+		'a': 'Sārtir'
+	},
+	'028@' {
+		'd': 'Zhan-Pol',
+		'a': 'Sarte͏̈r'
+	},
+	'028@' {
+		'd': 'Ǧān Pūl',
+		'a': 'Sārtir'
+	},
+	'028@' {
+		'd': 'Ǧān Būl',
+		'a': 'Sārtr'
+	},
+	'028@' {
+		'd': 'Jean-Paul',
+		'a': 'Sarte'
+	},
+	'028@' {
+		'd': 'Jean-Paul',
+		'a': 'Satre'
+	},
+	'028A' {
+		'd': 'Jean-Paul',
+		'a': 'Sartre'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040457907',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4045790-4',
+		'a': 'Philosoph',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'beru'
+	},
+	'042A' {
+		'a': '4.7p',
+		'a': '12.2p'
+	},
+	'042B' {
+		'a': 'XA-FR'
+	},
+	'042C' {
+		'a': 'fre'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Sartre, Jean-Paul',
+		'0': '11860564X'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Sartre, Jean-Paul',
+		'0': '187924864'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Sartre, Jean-Pual',
+		'0': '188117342'
+	},
+	'050E' {
+		'a': 'M, BF, B 1986'
+	},
+	'050G' {
+		'b': 'Nobelpreis 1964'
+	},
+	'060R' {
+		'a': '1905',
+		'b': '1980',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '21.06.1905',
+		'b': '15.04.1980',
+		'4': 'datx'
+	},
+	'lccn': 'n/79/106134',
+	'ndl': '00455343',
+	'viaf': '76322562',
+	'imdb': '0765683',
+	'category': 'Jean-Paul Sartre',
+	'category': 'Philosoph (20. Jahrhundert)',
+	'category': 'Existenzialist',
+	'category': 'Phänomenologe',
+	'category': 'Vertreter des Atheismus',
+	'category': 'Résistancekämpfer',
+	'category': 'Ehrendoktor der Hebräischen Universität Jerusalem',
+	'category': 'Schriftsteller (Paris)',
+	'category': 'Autor',
+	'category': 'Nobelpreisträger für Literatur',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (Französisch)',
+	'category': 'Drama',
+	'category': 'Roman, Epik',
+	'category': 'Tagebuch',
+	'category': 'Sachliteratur',
+	'category': 'Franzose',
+	'category': 'Geboren 1905',
+	'category': 'Gestorben 1980',
+	'category': 'Mann',
+	'category': 'Simone de Beauvoir'
+}
+'11862444X' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '1031:07-08-13',
+		't': '11:42:03.000'
+	},
+	'001D' {
+		'0': '9999:06-04-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '11862444X'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/11862444X'
+	},
+	'004B' {
+		'a': 'pip'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '11862444X'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '11862444X',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '13458970X'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '12711131X'
+	},
+	'007N' {
+		'a': 'dma',
+		'0': '310279704'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4061142-5',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 's',
+		'a': 'f',
+		'a': 'z'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'm',
+		'a': 'z',
+		'a': 'e'
+	},
+	'028@' {
+		'd': 'Hugo',
+		'a': 'Grotius',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Kaspar',
+		'a': 'Hauser',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Peter',
+		'a': 'Panter',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Theobald',
+		'a': 'Tiger',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Ignaz',
+		'a': 'Wrobel',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': '...',
+		'a': 'Tucholsky'
+	},
+	'028@' {
+		'd': 'Kurt',
+		'a': 'Tucholʹskij',
+		'v': 'Russ. Vorlageform, RAK-WB'
+	},
+	'028@' {
+		'd': 'Kurt',
+		'a': 'Tukholʹskiĭ',
+		'v': 'Russ. Vorlageform, AACR'
+	},
+	'028@' {
+		'd': 'Qûrṭ',
+		'a': 'Tûkôlsqî'
+	},
+	'028@' {
+		'd': 'Qûrṭ',
+		'a': 'Tukôlsqî'
+	},
+	'028@' {
+		'd': 'Paulus',
+		'a': 'Bünzly',
+		'4': 'pseu'
+	},
+	'028@' {
+		'd': 'Theobald',
+		'a': 'Körner',
+		'4': 'pseu'
+	},
+	'028@' {
+		'P': 'Old Shatterhand',
+		'4': 'pseu'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hebr',
+		'd': 'קורט',
+		'a': 'טוכולסקי',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'P': 'クルト・トゥホルスキー',
+		'5': 'DE-576'
+	},
+	'028A' {
+		'd': 'Kurt',
+		'a': 'Tucholsky'
+	},
+	'028P' {
+		'd': 'Kurt',
+		'a': 'Tucholsky',
+		'S': 'DLC',
+		'0': 'n 50081889',
+		'2': 'naf',
+		'v': '1890-1935.'
+	},
+	'028R' {
+		'9': '116841508',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '116841508',
+		'E': '1894',
+		'B': '1982',
+		'a': 'Matthias',
+		'd': 'Lisa',
+		'4': 'beza',
+		'v': 'Geliebte'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '040287815',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4028781-6',
+		'a': 'Journalist',
+		'4': 'beru'
+	},
+	'041R' {
+		'9': '041657756',
+		'7': 'Ts1',
+		'A': 'gnd',
+		'0': '4165775-5',
+		'a': 'Kritiker',
+		'4': 'beru'
+	},
+	'041R' {
+		'a': 'Bühnenautor',
+		'4': 'beru',
+		'v': '2. Beispiel für neue MAB-Umsetzung'
+	},
+	'041R' {
+		'a': 's',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Text',
+		'4': 'funk'
+	},
+	'041R' {
+		'a': 'Dr. jur.',
+		'4': 'akad'
+	},
+	'042A' {
+		'a': '12.2p',
+		'a': '2.3p'
+	},
+	'042B' {
+		'a': 'XA-DE',
+		'a': 'XA-FR',
+		'a': 'XA-SE'
+	},
+	'046G' {
+		'a': 'Fromme Gesänge. - 1919'
+	},
+	'046G' {
+		'a': 'Das Kurt-Tucholsky-Chanson-Buch. - 1983'
+	},
+	'046G' {
+		'a': 'Schloß Gripsholm. - 1931'
+	},
+	'046G' {
+		'a': 'Träumereien an preussischen Kaminen. - 1920'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Tucholsky, Kurt',
+		'0': '11862444X'
+	},
+	'050C' {
+		'a': 'GNDBeispiel'
+	},
+	'050E' {
+		'a': 'M; B 2006; LCAuth; NUC pre 56; DBE; Kürschner Lit./Nekr. (1936-1970); Biogr. H Emigr.'
+	},
+	'050E' {
+		'a': 'Archiv der American Guild for German Cultural Freedom, New York im Deutschen Exilarchiv 1933 – 1945'
+	},
+	'050G' {
+		'b': 'Dt. Bühnenautor (Literatur- und Theaterkritiker); Emigration 1924 nach Frankreich, 1929 nach Schweden; Jurastudium mit Promotion in Jena 1914/1915'
+	},
+	'060R' {
+		'a': '1890',
+		'b': '1935',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '09.01.1890',
+		'b': '21.12.1935',
+		'4': 'datx'
+	},
+	'065R' {
+		'9': '040057283',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4005728-8',
+		'a': 'Berlin',
+		'4': 'ortg'
+	},
+	'065R' {
+		'a': 'Hindås bei Göteborg',
+		'4': 'orts',
+		'v': 'Beispielfeld für neue MAB-Umsetzung',
+		'Z': '1935'
+	},
+	'065R' {
+		'9': '04028557x',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4028557-1',
+		'a': 'Jena',
+		'4': 'ortw'
+	},
+	'065R' {
+		'9': '040057283',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4005728-8',
+		'a': 'Berlin',
+		'4': 'ortw'
+	},
+	'065R' {
+		'9': '040446603',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4044660-8',
+		'a': 'Paris',
+		'4': 'ortw'
+	},
+	'lccn': 'n/50/81889',
+	'viaf': '49232367',
+	'ndl': '00459193',
+	'category': 'Kurt Tucholsky',
+	'category': 'Autor',
+	'category': 'Pseudonym',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (Deutsch)',
+	'category': 'Literatur (Berlin)',
+	'category': 'Publizist',
+	'category': 'Roman, Epik',
+	'category': 'Lyrik',
+	'category': 'Reiseliteratur',
+	'category': 'Satire',
+	'category': 'Dichterjurist',
+	'category': 'Person der Friedensbewegung',
+	'category': 'Freimaurer (20. Jahrhundert)',
+	'category': 'Freimaurer (Deutschland)',
+	'category': 'Journalist (Deutschland)',
+	'category': 'USPD-Mitglied',
+	'category': 'DFG-Mitglied',
+	'category': 'FdK-Mitglied',
+	'category': 'NS-Opfer',
+	'category': 'Person (Berlin)',
+	'category': 'Deutscher',
+	'category': 'Geboren 1890',
+	'category': 'Gestorben 1935',
+	'category': 'Mann'
+}
+'118628852' {
+	'001A' {
+		'0': '1250:01-07-88'
+	},
+	'001B' {
+		'0': '9999:04-09-13',
+		't': '02:01:21.000'
+	},
+	'001D' {
+		'0': '9999:06-04-08'
+	},
+	'001U' {
+		'0': 'utf8'
+	},
+	'001X' {
+		'0': '0'
+	},
+	'002@' {
+		'0': 'Tp1'
+	},
+	'003@' {
+		'0': '118628852'
+	},
+	'003U' {
+		'a': 'http://d-nb.info/gnd/118628852',
+		'z': 'http://d-nb.info/gnd/1035174863'
+	},
+	'004B' {
+		'a': 'piz'
+	},
+	'007K' {
+		'a': 'gnd',
+		'0': '118628852'
+	},
+	'007N' {
+		'a': 'gnd',
+		'0': '1035174863'
+	},
+	'007N' {
+		'a': 'pnd',
+		'0': '118628852',
+		'v': 'zg'
+	},
+	'007N' {
+		'a': 'swd',
+		'0': '4064478-9',
+		'v': 'zg'
+	},
+	'008A' {
+		'a': 's',
+		'a': 'f',
+		'a': 'z',
+		'a': 't',
+		'a': 'h'
+	},
+	'008B' {
+		'a': 'v',
+		'a': 'w',
+		'a': 'k',
+		'a': 'm',
+		'a': 'h',
+		'a': 'z'
+	},
+	'028@' {
+		'd': 'Mārtīn',
+		'a': 'Fālsir'
+	},
+	'028@' {
+		'd': 'Martin',
+		'a': 'Balser'
+	},
+	'028@' {
+		'd': 'Martin',
+		'a': 'Balzer'
+	},
+	'028@' {
+		'd': 'Mat\'in',
+		'a': 'Palchŏ'
+	},
+	'028@' {
+		'd': 'Martin',
+		'a': 'Valzer'
+	},
+	'028@' {
+		'd': 'Martin Johannes',
+		'a': 'Walser'
+	},
+	'028@' {
+		'P': 'Mading-Wa\'erze'
+	},
+	'028@' {
+		'd': 'Mading',
+		'a': 'Wa\'erze'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Kore',
+		'd': '마르틴',
+		'a': '발저',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Jpan',
+		'P': 'マルティン・ヴァルザー',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hant',
+		'd': '馬丁',
+		'a': '瓦瑟',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hant',
+		'P': '馬丁·瓦瑟',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'd': '马丁',
+		'a': '瓦尔泽',
+		'5': 'DE-576'
+	},
+	'028@' {
+		'T': '01',
+		'U': 'Hans',
+		'P': '马丁・瓦尔泽',
+		'5': 'DE-576'
+	},
+	'028A' {
+		'd': 'Martin',
+		'a': 'Walser'
+	},
+	'028P' {
+		'd': 'Martin',
+		'a': 'Walser',
+		'S': 'DLC',
+		'0': 'n 81056416',
+		'2': 'naf',
+		'v': '1927-'
+	},
+	'028R' {
+		'9': '121925463',
+		'7': 'Tp1',
+		'V': 'piz',
+		'A': 'gnd',
+		'0': '121925463',
+		'E': '1961',
+		'a': 'Walser',
+		'd': 'Alissa',
+		'4': 'bezf',
+		'v': 'Tochter'
+	},
+	'032T' {
+		'a': 'm'
+	},
+	'037G' {
+		'c': '838.91409'
+	},
+	'041R' {
+		'a': 'Dr. phil.',
+		'4': 'akad'
+	},
+	'041R' {
+		'9': '040533093',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4053309-8',
+		'a': 'Schriftsteller',
+		'4': 'berc'
+	},
+	'041R' {
+		'9': '041402413',
+		'7': 'Ts1',
+		'V': 'saz',
+		'A': 'gnd',
+		'0': '4140241-8',
+		'a': 'Dramatiker',
+		'4': 'beru'
+	},
+	'042A' {
+		'a': '12.2p'
+	},
+	'042B' {
+		'a': 'XA-DE'
+	},
+	'042C' {
+		'a': 'ger'
+	},
+	'047A/03' {
+		'e': 'DE-101'
+	},
+	'047A/03' {
+		'r': 'DE-101'
+	},
+	'047C' {
+		'S': 'pnd',
+		'i': 'a',
+		'a': 'Walser, Martin',
+		'0': '118628852'
+	},
+	'050C' {
+		'a': 'NDSBIO'
+	},
+	'050C' {
+		'a': 'OENAK'
+	},
+	'050C' {
+		'a': 'NDSBIO'
+	},
+	'050E' {
+		'a': 'M; LoC-NA'
+	},
+	'050E' {
+		'a': 'KLK 2 (2006/2007), S. 1279'
+	},
+	'050E' {
+		'a': 'Munzinger online',
+		'u': 'http://www.munzinger.de/search/query?query.id=query-00'
+	},
+	'050E' {
+		'a': 'WBIS online',
+		'u': 'http://db.saur.de/WBIS/autologin?user=gwlb'
+	},
+	'050G' {
+		'b': 'Studium der Literatur, Geschichte und Philosophie an der Theologisch-Philosophischen Hochschule Regensburg und in Tübingen; 1987 Auszeichnung mit dem Großen Bundesverdienstkreuz; 1995 Ehrendoktorwürde der Universität Hildesheim; Großes Bundesverdienstkreuz 1987 und zahlreiche weitere Auszeichnungen'
+	},
+	'060R' {
+		'a': '1927',
+		'4': 'datl'
+	},
+	'060R' {
+		'a': '24.03.1927',
+		'4': 'datx'
+	},
+	'065R' {
+		'9': '041189965',
+		'7': 'Tg1',
+		'V': 'gik',
+		'A': 'gnd',
+		'0': '4118996-6',
+		'a': 'Wasserburg (Bodensee)',
+		'4': 'ortg'
+	},
+	'070A/03' {
+		'0': '(DE-588)118628852'
+	},
+	'lccn': 'n/81/56416',
+	'ndl': '00460123',
+	'viaf': '51697261',
+	'imdb': '0909522',
+	'category': 'Martin Walser',
+	'category': 'Autor',
+	'category': 'Nachkriegsliteratur',
+	'category': 'Literatur (20. Jahrhundert)',
+	'category': 'Literatur (21. Jahrhundert)',
+	'category': 'Literatur (Deutsch)',
+	'category': 'Roman, Epik',
+	'category': 'Träger des Georg-Büchner-Preises',
+	'category': 'Träger des Großen Bundesverdienstkreuzes mit Stern',
+	'category': 'Träger des Pour le Mérite (Friedensklasse)',
+	'category': 'Träger des Bayerischen Maximiliansordens für Wissenschaft und Kunst',
+	'category': 'Träger des Friedenspreises des Deutschen Buchhandels',
+	'category': 'Träger der Verdienstmedaille des Landes Baden-Württemberg',
+	'category': 'Mitglied der Deutschen Akademie für Sprache und Dichtung',
+	'category': 'Mitglied im PEN-Zentrum Deutschland',
+	'category': 'Mitglied der Sächsischen Akademie der Künste',
+	'category': 'Ehrendoktor der Universität Konstanz',
+	'category': 'Ehrendoktor der Technischen Universität Dresden',
+	'category': 'Ehrendoktor der Universität Hildesheim',
+	'category': 'NSDAP-Mitglied',
+	'category': 'Wasserburg (Bodensee)',
+	'category': 'Deutscher',
+	'category': 'Geboren 1927',
+	'category': 'Mann'
+}

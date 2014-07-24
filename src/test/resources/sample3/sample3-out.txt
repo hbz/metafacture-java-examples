@@ -1,0 +1,43 @@
+'958090564' {
+	'Title': 'Zukunft Bildung',
+	'Publisher': 'Polit. Akad.: Wien'
+}
+'361809549' {
+	'Title': 'Hundert Jahre Buchdrucker-Innung Hamburg',
+	'Publisher': 'Buchdrucker-Innung (Freie Innung): Hamburg',
+	'Publisher': '[Verlagsbuchh. Broschek & Co.]: Hamburg'
+}
+'780510143' {
+	'Title': 'Christa Dichgans, "Unsere Welt"',
+	'Publisher': 'Galerie Springer: Berlin'
+}
+'956745954' {
+	'Title': 'Arbeit, Ausbildung und Qualifikation für Drogengebraucher in Substitutionsbehandlung',
+	'Publisher': 'Dt. AIDS-Hilfe: Berlin'
+}
+'576121444' {
+	'Year': '1939',
+	'Title': 'Die @Nathanaelfrage unserer Tage',
+	'Publisher': 'Schwarzmann: Köln'
+}
+'364457708' {
+	'Title': 'Passau und der Bayerische Wald',
+	'Publisher': 'Hoffmann u. Campe: Hamburg'
+}
+'963517473' {
+	'Title': 'Fußball-Fan',
+	'Publisher': 'Tomus: München'
+}
+'578515415' {
+	'Title': 'Der @Galeerensklave',
+	'Publisher': 'Gauverl. Bayreuth: Bayreuth'
+}
+'573885400' {
+	'Year': '1919',
+	'Title': 'In den Tagen des Antichristen',
+	'Publisher': 'Verl. d. "Bücherboten": Düsseldorf'
+}
+'942958748' {
+	'Title': 'Anleitung zur Erstellung eines Handbuches für die Materialwirtschaft in Versorgungsunternehmen',
+	'Publisher': 'VDEW: Frankfurt am Main'
+}

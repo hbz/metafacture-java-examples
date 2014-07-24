@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exercise 3a -->
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1"
+	entityMarker=".">
+
+	<rules>
+		<!-- Please add your transformation rules here -->
+		<data source="021A.a" name="Title"></data>
+		<data source="011@.n" name="Year">
+			<regexp match="\[(\d+)\]" format="${1}"/>
+		</data>
+		<combine name="Publisher" value="${Publisher}: ${Place}" reset="true">
+			<data source="033A.n" name="Publisher"></data>
+			<data source="033A.p" name="Place"></data>
+		</combine>
+	</rules>
+
+</metamorph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Exercise 2a 
+ -->
+ 
+<metamorph xmlns="http://www.culturegraph.org/metamorph"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		version="1" entityMarker=".">
+	
+	<rules>
+		<data source="name" name="Firstname">
+			<regexp match="(\S+)\s+(\S+)" format="${1}"/>
+		</data>
+		<data source="name" name="Lastname">
+			<regexp match="(\S+)\s+(\S+)" format="${2}"/>
+		</data>
+		
+		<data source="birthplace" name="Birthplace" />
+		<combine name="Birthdate" value="${DAY}. ${MONTH} ${YEAR}">
+			<data source="birthdate" name="DAY">
+				<split delimiter="-" />
+				<occurrence only="3" />
+			</data>
+			<data source="birthdate" name="MONTH">
+				<split delimiter="-" />
+				<occurrence only="2" />
+				<lookup in="months" />
+			</data>
+			<data source="birthdate" name="YEAR">
+				<split delimiter="-" />
+				<occurrence only="1" />			
+			</data>
+		</combine>
+		
+	</rules>
+	
+	<maps>
+		<map name="months">
+			<entry name="01" value="January" />
+			<entry name="02" value="February" />
+			<entry name="03" value="March" />
+			<entry name="04" value="April" />
+			<entry name="05" value="May" />
+			<entry name="06" value="June" />
+			<entry name="07" value="July" />
+			<entry name="08" value="August" />
+			<entry name="09" value="September" />
+			<entry name="10" value="October" />
+			<entry name="11" value="November" />
+			<entry name="12" value="December" />
+		</map>
+	</maps>
+	
+</metamorph>
