@@ -4,4 +4,29 @@ This is a minimal Java 8 Maven project with solutions to the exercises from the 
 
 The processing pipelines or workflows are built using the typesafe Metafacture Java API directly, not the Flux DSL.
 
-Prerequisites: Java 8, Maven 3
+h1. Setup
+
+Prerequisites: Java 8, Maven 3; verify with @mvn -version@
+
+h2. Clone
+
+Create and change into a folder where you want to store the projects:
+
+* @mkdir ~/git ; cd ~/git@
+
+Clone metafacture-core and metafacture-java-examples:
+
+* @git clone https://github.com/culturegraph/metafacture-core.git@
+* @git clone https://github.com/hbz/metafacture-java-examples.git@
+
+h2. Eclipse
+
+The processing pipelines are written in Java, the actual transformation logic and tests are written in XML. Both can be comfortably edited using Eclipse, which provides content assist (auto-suggest), Maven support, and direct execution of the tests and the transformation.
+
+* Download and run the "Eclipse Java IDE":https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/lunar (at least version 4.4, Luna), close the welcome screen and import metafacture-core and metafacture-java-examples: 
+* @File@ -> @Import...@ -> @Maven@ -> @Existing Maven Projects...@ -> @Next@ -> @Browse...@ -> select @~/git@ -> @Finish@
+* Follow the instructions for installing additional plugins and restart Eclipse when it asks you to
+* Set up the XML schemas for content assist and documentation while editing metamorph and metamorph-test files:
+* @Window@ (on Mac: @Eclipse@) -> @Preferences@ -> @XML@ -> @XML Catalog@
+* select @User Specified Entries@ -> @Add...@ -> @Workspace...@ -> @metafacture-core/src/main/resources/schemata/metamorph.xsd@
+* repeat previous step for @metamorph-test.xsd@ in the same location
