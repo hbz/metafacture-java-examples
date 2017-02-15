@@ -8,16 +8,25 @@ h1. Setup
 
 Prerequisites: Java 8, Maven 3; verify with @mvn -version@
 
-h2. Clone
+h2. Maven
 
-Create and change into a folder where you want to store the projects:
+Create and change into a folder where you want to store the project:
 
 * @mkdir ~/git ; cd ~/git@
 
-Clone metafacture-core and metafacture-java-examples:
+Clone metafacture-java-examples:
 
-* @git clone https://github.com/culturegraph/metafacture-core.git@
 * @git clone https://github.com/hbz/metafacture-java-examples.git@
+
+Build metafacture-java-examples:
+
+* @mvn clean verify@
+
+Run a sample with Maven:
+
+* @mvn exec:java -Dexec.classpathScope=test -Dexec.mainClass="samples.Sample1_PrintData"@
+
+Output is written to the individual folders for each sample in @src/test/resources@.
 
 h2. Eclipse
 
@@ -30,3 +39,5 @@ The processing pipelines are written in Java, the actual transformation logic an
 * @Window@ (on Mac: @Eclipse@) -> @Preferences@ -> @XML@ -> @XML Catalog@
 * select @User Specified Entries@ -> @Add...@ -> @Workspace...@ -> @metafacture-core/src/main/resources/schemata/metamorph.xsd@
 * repeat previous step for @metamorph-test.xsd@ in the same location
+
+To run a sample in Eclipse, open @metafacture-java-examples/src/test/java/samples@, right click a sample -> 'Run As...' -> 'Java Application'. Output is written to the corresponding folder in @src/test/resources@.
