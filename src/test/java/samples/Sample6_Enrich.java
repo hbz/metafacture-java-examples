@@ -41,7 +41,7 @@ public class Sample6_Enrich {
 				.setReceiver(new Metamorph(wikiMorph))//
 				.setReceiver(streamToTriples);
 
-		CloseSupressor<Triple> wait = new CloseSupressor<Triple>(2);
+		CloseSuppressor<Triple> wait = new CloseSuppressor<Triple>(2);
 		FormetaEncoder encode = new FormetaEncoder();
 		encode.setStyle(FormatterStyle.MULTILINE);
 		ObjectWriter<String> writer = new ObjectWriter<>(
