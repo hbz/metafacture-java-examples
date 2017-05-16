@@ -7,7 +7,7 @@ import org.culturegraph.mf.stream.converter.FormetaEncoder;
 import org.culturegraph.mf.stream.converter.LineReader;
 import org.culturegraph.mf.stream.converter.StreamToTriples;
 import org.culturegraph.mf.stream.converter.bib.PicaDecoder;
-import org.culturegraph.mf.stream.pipe.CloseSupressor;
+import org.culturegraph.mf.stream.pipe.CloseSuppressor;
 import org.culturegraph.mf.stream.pipe.sort.TripleCollect;
 import org.culturegraph.mf.stream.pipe.sort.TripleSort;
 import org.culturegraph.mf.stream.sink.ObjectWriter;
@@ -41,7 +41,7 @@ public class Sample6_Enrich {
 				.setReceiver(new Metamorph(wikiMorph))//
 				.setReceiver(streamToTriples);
 
-		CloseSupressor<Triple> wait = new CloseSupressor<Triple>(2);
+		CloseSuppressor<Triple> wait = new CloseSuppressor<Triple>(2);
 		FormetaEncoder encode = new FormetaEncoder();
 		encode.setStyle(FormatterStyle.MULTILINE);
 		ObjectWriter<String> writer = new ObjectWriter<>(

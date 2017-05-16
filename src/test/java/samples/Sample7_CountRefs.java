@@ -6,7 +6,7 @@ import org.culturegraph.mf.stream.converter.FormetaEncoder;
 import org.culturegraph.mf.stream.converter.LineReader;
 import org.culturegraph.mf.stream.converter.StreamToTriples;
 import org.culturegraph.mf.stream.converter.bib.PicaDecoder;
-import org.culturegraph.mf.stream.pipe.CloseSupressor;
+import org.culturegraph.mf.stream.pipe.CloseSuppressor;
 import org.culturegraph.mf.stream.pipe.sort.AbstractTripleSort.Compare;
 import org.culturegraph.mf.stream.pipe.sort.TripleCollect;
 import org.culturegraph.mf.stream.pipe.sort.TripleCount;
@@ -47,7 +47,7 @@ public class Sample7_CountRefs {
 				.setReceiver(streamToTriples)//
 				.setReceiver(count);
 
-		CloseSupressor<Triple> wait = new CloseSupressor<Triple>(2);
+		CloseSuppressor<Triple> wait = new CloseSuppressor<Triple>(2);
 		TripleSort sort = new TripleSort();
 		sort.setBy(Compare.SUBJECT);
 		FormetaEncoder encode = new FormetaEncoder();
