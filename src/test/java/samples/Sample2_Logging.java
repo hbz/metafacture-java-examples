@@ -2,7 +2,7 @@ package samples;
 import org.culturegraph.mf.morph.Metamorph;
 import org.culturegraph.mf.stream.converter.FormetaDecoder;
 import org.culturegraph.mf.stream.converter.LineReader;
-import org.culturegraph.mf.stream.converter.StreamLiteralFormater;
+import org.culturegraph.mf.stream.converter.StreamLiteralFormatter;
 import org.culturegraph.mf.stream.pipe.ObjectLogger;
 import org.culturegraph.mf.stream.pipe.StreamLogger;
 import org.culturegraph.mf.stream.pipe.StringFilter;
