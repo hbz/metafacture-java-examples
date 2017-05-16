@@ -23,7 +23,7 @@ public class Sample2_Logging {
 				"src/test/resources/sample2/mystery-morph-1.xml");
 		Metamorph morph2 = new Metamorph(
 				"src/test/resources/sample2/mystery-morph-2.xml");
-		StreamLiteralFormater encoder = new StreamLiteralFormater();
+		StreamLiteralFormatter encoder = new StreamLiteralFormatter();
 		ObjectWriter<String> writer = new ObjectWriter<>(
 				"src/test/resources/sample2/sample2-out.txt");
 
