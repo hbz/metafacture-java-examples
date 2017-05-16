@@ -47,7 +47,7 @@ public class Sample7_CountRefs {
 				.setReceiver(streamToTriples)//
 				.setReceiver(count);
 
-		CloseSupressor<Triple> wait = new CloseSupressor<Triple>(2);
+		CloseSuppressor<Triple> wait = new CloseSuppressor<Triple>(2);
 		TripleSort sort = new TripleSort();
 		sort.setBy(Compare.SUBJECT);
 		FormetaEncoder encode = new FormetaEncoder();
