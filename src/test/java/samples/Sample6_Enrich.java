@@ -1,19 +1,19 @@
 package samples;
 
+import org.culturegraph.mf.biblio.pica.PicaDecoder;
+import org.culturegraph.mf.flowcontrol.CloseSuppressor;
+import org.culturegraph.mf.formeta.FormetaDecoder;
+import org.culturegraph.mf.formeta.FormetaEncoder;
 import org.culturegraph.mf.formeta.formatter.FormatterStyle;
-import org.culturegraph.mf.morph.Metamorph;
-import org.culturegraph.mf.stream.converter.FormetaDecoder;
-import org.culturegraph.mf.stream.converter.FormetaEncoder;
-import org.culturegraph.mf.stream.converter.LineReader;
-import org.culturegraph.mf.stream.converter.StreamToTriples;
-import org.culturegraph.mf.stream.converter.bib.PicaDecoder;
-import org.culturegraph.mf.stream.pipe.CloseSuppressor;
-import org.culturegraph.mf.stream.pipe.sort.TripleCollect;
-import org.culturegraph.mf.stream.pipe.sort.TripleSort;
-import org.culturegraph.mf.stream.sink.ObjectWriter;
-import org.culturegraph.mf.stream.source.FileOpener;
-import org.culturegraph.mf.types.Triple;
-import org.culturegraph.mf.util.FileCompression;
+import org.culturegraph.mf.framework.objects.Triple;
+import org.culturegraph.mf.io.FileCompression;
+import org.culturegraph.mf.io.FileOpener;
+import org.culturegraph.mf.io.LineReader;
+import org.culturegraph.mf.io.ObjectWriter;
+import org.culturegraph.mf.metamorph.Metamorph;
+import org.culturegraph.mf.triples.StreamToTriples;
+import org.culturegraph.mf.triples.TripleCollect;
+import org.culturegraph.mf.triples.TripleSort;
 
 public class Sample6_Enrich {
 	public static void main(String[] args) {
@@ -44,8 +44,7 @@ public class Sample6_Enrich {
 		CloseSuppressor<Triple> wait = new CloseSuppressor<Triple>(2);
 		FormetaEncoder encode = new FormetaEncoder();
 		encode.setStyle(FormatterStyle.MULTILINE);
-		ObjectWriter<String> writer = new ObjectWriter<>(
-				"src/test/resources/sample6/sample6-out.txt");
+		ObjectWriter<String> writer = new ObjectWriter<>("src/test/resources/sample6/sample6-out.txt");
 
 		flow1.setReceiver(wait)//
 				.setReceiver(new TripleSort())//

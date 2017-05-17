@@ -1,16 +1,16 @@
 package samples;
 
-import org.culturegraph.mf.morph.Metamorph;
-import org.culturegraph.mf.stream.converter.LineReader;
-import org.culturegraph.mf.stream.converter.ObjectTemplate;
-import org.culturegraph.mf.stream.converter.StreamToTriples;
-import org.culturegraph.mf.stream.converter.bib.PicaDecoder;
-import org.culturegraph.mf.stream.pipe.sort.AbstractTripleSort.Compare;
-import org.culturegraph.mf.stream.pipe.sort.TripleCount;
-import org.culturegraph.mf.stream.sink.ObjectWriter;
-import org.culturegraph.mf.stream.source.FileOpener;
-import org.culturegraph.mf.types.Triple;
-import org.culturegraph.mf.util.FileCompression;
+import org.culturegraph.mf.biblio.pica.PicaDecoder;
+import org.culturegraph.mf.formatting.ObjectTemplate;
+import org.culturegraph.mf.framework.objects.Triple;
+import org.culturegraph.mf.io.FileCompression;
+import org.culturegraph.mf.io.FileOpener;
+import org.culturegraph.mf.io.LineReader;
+import org.culturegraph.mf.io.ObjectWriter;
+import org.culturegraph.mf.metamorph.Metamorph;
+import org.culturegraph.mf.triples.AbstractTripleSort.Compare;
+import org.culturegraph.mf.triples.StreamToTriples;
+import org.culturegraph.mf.triples.TripleCount;
 
 public class Sample4_CountValues {
 	public static void main(String[] args) {
@@ -24,8 +24,7 @@ public class Sample4_CountValues {
 		TripleCount count = new TripleCount();
 		count.setCountBy(Compare.OBJECT);
 		ObjectTemplate<Triple> template = new ObjectTemplate<>("${o} | ${s}");
-		ObjectWriter<String> writer = new ObjectWriter<>(
-				"src/test/resources/sample4/sample4-out.txt");
+		ObjectWriter<String> writer = new ObjectWriter<>("src/test/resources/sample4/sample4-out.txt");
 
 		opener.setReceiver(reader)//
 				.setReceiver(decoder)//

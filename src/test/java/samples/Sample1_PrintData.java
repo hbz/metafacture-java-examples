@@ -1,12 +1,12 @@
 package samples;
 
+import org.culturegraph.mf.biblio.pica.PicaDecoder;
+import org.culturegraph.mf.formeta.FormetaEncoder;
 import org.culturegraph.mf.formeta.formatter.FormatterStyle;
-import org.culturegraph.mf.stream.converter.FormetaEncoder;
-import org.culturegraph.mf.stream.converter.LineReader;
-import org.culturegraph.mf.stream.converter.bib.PicaDecoder;
-import org.culturegraph.mf.stream.sink.ObjectWriter;
-import org.culturegraph.mf.stream.source.FileOpener;
-import org.culturegraph.mf.util.FileCompression;
+import org.culturegraph.mf.io.FileCompression;
+import org.culturegraph.mf.io.FileOpener;
+import org.culturegraph.mf.io.LineReader;
+import org.culturegraph.mf.io.ObjectWriter;
 
 public class Sample1_PrintData {
 	public static void main(String[] args) {
@@ -17,8 +17,7 @@ public class Sample1_PrintData {
 		PicaDecoder decoder = new PicaDecoder();
 		FormetaEncoder encoder = new FormetaEncoder();
 		encoder.setStyle(FormatterStyle.MULTILINE);
-		ObjectWriter<String> writer = new ObjectWriter<>(
-				"src/test/resources/sample1/sample1-out.txt");
+		ObjectWriter<String> writer = new ObjectWriter<>("src/test/resources/sample1/sample1-out.txt");
 
 		opener.setReceiver(reader)//
 				.setReceiver(decoder)//

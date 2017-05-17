@@ -1,14 +1,15 @@
 package samples;
-import org.culturegraph.mf.morph.Metamorph;
-import org.culturegraph.mf.stream.converter.FormetaDecoder;
-import org.culturegraph.mf.stream.converter.LineReader;
-import org.culturegraph.mf.stream.converter.StreamLiteralFormatter;
-import org.culturegraph.mf.stream.pipe.ObjectLogger;
-import org.culturegraph.mf.stream.pipe.StreamLogger;
-import org.culturegraph.mf.stream.pipe.StringFilter;
-import org.culturegraph.mf.stream.sink.ObjectWriter;
-import org.culturegraph.mf.stream.source.FileOpener;
-import org.culturegraph.mf.util.FileCompression;
+
+import org.culturegraph.mf.formatting.StreamLiteralFormatter;
+import org.culturegraph.mf.formeta.FormetaDecoder;
+import org.culturegraph.mf.io.FileCompression;
+import org.culturegraph.mf.io.FileOpener;
+import org.culturegraph.mf.io.LineReader;
+import org.culturegraph.mf.io.ObjectWriter;
+import org.culturegraph.mf.metamorph.Metamorph;
+import org.culturegraph.mf.monitoring.ObjectLogger;
+import org.culturegraph.mf.monitoring.StreamLogger;
+import org.culturegraph.mf.strings.StringFilter;
 
 public class Sample2_Logging {
 	public static void main(String[] args) {
@@ -19,13 +20,10 @@ public class Sample2_Logging {
 		StringFilter filter = new StringFilter("geburts");
 		filter.setPassMatches(false);
 		FormetaDecoder decoder = new FormetaDecoder();
-		Metamorph morph1 = new Metamorph(
-				"src/test/resources/sample2/mystery-morph-1.xml");
-		Metamorph morph2 = new Metamorph(
-				"src/test/resources/sample2/mystery-morph-2.xml");
+		Metamorph morph1 = new Metamorph("src/test/resources/sample2/mystery-morph-1.xml");
+		Metamorph morph2 = new Metamorph("src/test/resources/sample2/mystery-morph-2.xml");
 		StreamLiteralFormatter encoder = new StreamLiteralFormatter();
-		ObjectWriter<String> writer = new ObjectWriter<>(
-				"src/test/resources/sample2/sample2-out.txt");
+		ObjectWriter<String> writer = new ObjectWriter<>("src/test/resources/sample2/sample2-out.txt");
 
 		opener.setReceiver(reader)//
 				.setReceiver(new ObjectLogger<>("Filtering: "))//
