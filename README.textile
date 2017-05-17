@@ -4,6 +4,8 @@ This is a minimal Java 8 Maven project with solutions to the exercises from the 
 
 The processing pipelines or workflows are built using the typesafe Metafacture Java API directly, not the Flux DSL.
 
+!https://travis-ci.org/hbz/metafacture-java-examples.svg?branch=master!:https://travis-ci.org/hbz/metafacture-java-examples
+
 h1. Setup
 
 Prerequisites: Java 8, Maven 3; verify with @mvn -version@
