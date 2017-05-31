@@ -1,0 +1,41 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="count-test-2">
+		<input type="text/x-formeta">
+			record-1 {
+				060R.a: Neunundneunzig,
+				060R.a: 1999,
+				060R.a: 12.12.1999,
+				060R.b: Zwanzigfünfzig,
+				060R.b: 2050,
+				060R.b: 12.12.2050
+			}
+			record-2 {
+				060R.a: Neunundneunzig,
+				060R.a: 1999,
+				060R.b: Zwanzigfünfzig,
+				060R.b: 2050
+			}
+			record-3 {
+				060R.a: Neunundneunzig,
+				060R.b: Zwanzigfünfzig
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample5/count.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-1 {
+				birth (full): 12.12.1999,
+				death (full): 12.12.2050
+			}
+			record-2 {
+				birth (year): 1999,
+				death (year): 2050
+			}
+			record-3 {
+				invalid birth: other,
+				invalid death: other
+			}
+		</result>
+	</test-case>
+</metamorph-test>

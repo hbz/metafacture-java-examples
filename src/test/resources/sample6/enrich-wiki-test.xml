@@ -1,0 +1,21 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="enrich-wiki-test">
+		<input type="text/x-formeta">
+			record-id {
+				gnd: 118559230,
+				firstname: Franz,
+				lastname: Kafka
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample6/enrich-wiki.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-id {
+				_id: 118559230,
+				firstname: Franz,
+				lastname: Kafka
+			}
+		</result>
+	</test-case>
+</metamorph-test>

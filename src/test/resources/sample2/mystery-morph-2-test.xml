@@ -1,0 +1,20 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="mystery-morph-2-test">
+		<input type="text/x-formeta">
+			record-id {
+				Firstname: Franz,
+				Lastname: Kafka,
+				Birthplace: Prague,
+				Birthdate: 03. July 1883
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample2/mystery-morph-2.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-id {
+				: 'record-id, Kafka, Franz, 03. July 1883, Prague'
+			}
+		</result>
+	</test-case>
+</metamorph-test>

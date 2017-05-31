@@ -1,0 +1,22 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="simple-transformation">
+		<input type="text/x-formeta">
+			record-id {
+				021A.a: Die Verwandlung,
+				011@.n: [1916],
+				033A.n: Kurt Wolff Verlag,
+				033A.p: Leipzig
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample3/simple-transformation.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-id {
+				Title: Die Verwandlung,
+				Year: 1916,
+				Publisher: 'Kurt Wolff Verlag: Leipzig'
+			}
+		</result>
+	</test-case>
+</metamorph-test>

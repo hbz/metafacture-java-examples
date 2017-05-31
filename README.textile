@@ -24,6 +24,10 @@ Build metafacture-java-examples:
 
 * @mvn clean verify@
 
+Run the included "metamorph tests":https://github.com/culturegraph/metafacture-core/wiki/Testing-Framework-for-Metamorph:
+
+* @mvn clean test@
+
 Run a sample with Maven:
 
 * @mvn exec:java -Dexec.classpathScope=test -Dexec.mainClass="samples.Sample1_PrintData"@

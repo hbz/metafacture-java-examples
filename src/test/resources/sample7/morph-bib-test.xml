@@ -1,0 +1,18 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="morph-bib-test">
+		<input type="text/x-formeta">
+			record-id {
+				_id: 110646656X,
+				028A.9: 118559230
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample7/morph-bib.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-id {
+				'{to:118559230}authorOf': 110646656X
+			}
+		</result>
+	</test-case>
+</metamorph-test>

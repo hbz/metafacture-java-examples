@@ -1,0 +1,17 @@
+<metamorph-test version="1.0"
+	xmlns="http://www.culturegraph.org/metamorph-test">
+	<test-case name="count-test-1">
+		<input type="text/x-formeta">
+			record-id {
+				032@.a: 1. Aufl.
+			}
+		</input>
+		<transformation type="text/x-metamorph+xml" src="sample4/count.xml" />
+		<result type="text/x-formeta" strict-key-order="false"
+			strict-record-order="false" strict-value-order="false">
+			record-id {
+				Edition: 1. Aufl.
+			}
+		</result>
+	</test-case>
+</metamorph-test>
