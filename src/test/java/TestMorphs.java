@@ -1,6 +1,6 @@
-import org.culturegraph.mf.test.MetamorphTestSuite;
-import org.culturegraph.mf.test.MetamorphTestSuite.TestDefinitions;
 import org.junit.runner.RunWith;
+import org.metafacture.metamorph.test.MetamorphTestSuite;
+import org.metafacture.metamorph.test.MetamorphTestSuite.TestDefinitions;
 
 @RunWith(MetamorphTestSuite.class)
 @TestDefinitions({ //

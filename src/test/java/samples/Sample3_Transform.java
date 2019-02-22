@@ -1,13 +1,13 @@
 package samples;
 
-import org.culturegraph.mf.biblio.pica.PicaDecoder;
-import org.culturegraph.mf.formeta.FormetaEncoder;
-import org.culturegraph.mf.formeta.formatter.FormatterStyle;
-import org.culturegraph.mf.io.FileCompression;
-import org.culturegraph.mf.io.FileOpener;
-import org.culturegraph.mf.io.LineReader;
-import org.culturegraph.mf.io.ObjectWriter;
-import org.culturegraph.mf.metamorph.Metamorph;
+import org.metafacture.biblio.pica.PicaDecoder;
+import org.metafacture.formeta.FormetaEncoder;
+import org.metafacture.formeta.formatter.FormatterStyle;
+import org.metafacture.io.FileCompression;
+import org.metafacture.io.FileOpener;
+import org.metafacture.io.LineReader;
+import org.metafacture.io.ObjectWriter;
+import org.metafacture.metamorph.Metamorph;
 
 public class Sample3_Transform {
 	public static void main(String[] args) {

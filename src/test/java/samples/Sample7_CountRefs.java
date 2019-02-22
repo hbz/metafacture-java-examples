@@ -1,20 +1,20 @@
 package samples;
 
-import org.culturegraph.mf.biblio.pica.PicaDecoder;
-import org.culturegraph.mf.flowcontrol.CloseSuppressor;
-import org.culturegraph.mf.formeta.FormetaEncoder;
-import org.culturegraph.mf.formeta.formatter.FormatterStyle;
-import org.culturegraph.mf.framework.objects.Triple;
-import org.culturegraph.mf.io.FileCompression;
-import org.culturegraph.mf.io.FileOpener;
-import org.culturegraph.mf.io.LineReader;
-import org.culturegraph.mf.io.ObjectWriter;
-import org.culturegraph.mf.metamorph.Metamorph;
-import org.culturegraph.mf.triples.AbstractTripleSort.Compare;
-import org.culturegraph.mf.triples.StreamToTriples;
-import org.culturegraph.mf.triples.TripleCollect;
-import org.culturegraph.mf.triples.TripleCount;
-import org.culturegraph.mf.triples.TripleSort;
+import org.metafacture.biblio.pica.PicaDecoder;
+import org.metafacture.flowcontrol.CloseSuppressor;
+import org.metafacture.formeta.FormetaEncoder;
+import org.metafacture.formeta.formatter.FormatterStyle;
+import org.metafacture.framework.objects.Triple;
+import org.metafacture.io.FileCompression;
+import org.metafacture.io.FileOpener;
+import org.metafacture.io.LineReader;
+import org.metafacture.io.ObjectWriter;
+import org.metafacture.metamorph.Metamorph;
+import org.metafacture.triples.AbstractTripleSort.Compare;
+import org.metafacture.triples.StreamToTriples;
+import org.metafacture.triples.TripleCollect;
+import org.metafacture.triples.TripleCount;
+import org.metafacture.triples.TripleSort;
 
 public class Sample7_CountRefs {
 	public static void main(String[] args) {

@@ -1,17 +1,17 @@
 package samples;
 
-import org.culturegraph.mf.biblio.pica.PicaDecoder;
-import org.culturegraph.mf.formatting.ObjectTemplate;
-import org.culturegraph.mf.framework.objects.Triple;
-import org.culturegraph.mf.io.FileCompression;
-import org.culturegraph.mf.io.FileOpener;
-import org.culturegraph.mf.io.LineReader;
-import org.culturegraph.mf.io.ObjectWriter;
-import org.culturegraph.mf.metamorph.Metamorph;
-import org.culturegraph.mf.triples.AbstractTripleSort.Compare;
-import org.culturegraph.mf.triples.StreamToTriples;
-import org.culturegraph.mf.triples.TripleCount;
-import org.culturegraph.mf.triples.TripleSort;
+import org.metafacture.biblio.pica.PicaDecoder;
+import org.metafacture.formatting.ObjectTemplate;
+import org.metafacture.framework.objects.Triple;
+import org.metafacture.io.FileCompression;
+import org.metafacture.io.FileOpener;
+import org.metafacture.io.LineReader;
+import org.metafacture.io.ObjectWriter;
+import org.metafacture.metamorph.Metamorph;
+import org.metafacture.triples.AbstractTripleSort.Compare;
+import org.metafacture.triples.StreamToTriples;
+import org.metafacture.triples.TripleCount;
+import org.metafacture.triples.TripleSort;
 
 public class Sample5_CountPatterns {
 	public static void main(String[] args) {

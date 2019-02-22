@@ -1,15 +1,15 @@
 package samples;
 
-import org.culturegraph.mf.formatting.StreamLiteralFormatter;
-import org.culturegraph.mf.formeta.FormetaDecoder;
-import org.culturegraph.mf.io.FileCompression;
-import org.culturegraph.mf.io.FileOpener;
-import org.culturegraph.mf.io.LineReader;
-import org.culturegraph.mf.io.ObjectWriter;
-import org.culturegraph.mf.metamorph.Metamorph;
-import org.culturegraph.mf.monitoring.ObjectLogger;
-import org.culturegraph.mf.monitoring.StreamLogger;
-import org.culturegraph.mf.strings.StringFilter;
+import org.metafacture.formatting.StreamLiteralFormatter;
+import org.metafacture.formeta.FormetaDecoder;
+import org.metafacture.io.FileCompression;
+import org.metafacture.io.FileOpener;
+import org.metafacture.io.LineReader;
+import org.metafacture.io.ObjectWriter;
+import org.metafacture.metamorph.Metamorph;
+import org.metafacture.monitoring.ObjectLogger;
+import org.metafacture.monitoring.StreamLogger;
+import org.metafacture.strings.StringFilter;
 
 public class Sample2_Logging {
 	public static void main(String[] args) {
